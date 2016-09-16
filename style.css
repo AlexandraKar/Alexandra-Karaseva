@@ -138,8 +138,7 @@ footer.page-footer {
 }
 
 main {
-    display: block; /* для страховки, очень новый элемент */
-    
+    display: block;
     padding-top: 50px;
     color: black;
     background-color: white;
